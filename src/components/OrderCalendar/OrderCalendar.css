@@ -1,0 +1,13 @@
+/* components/OrderCalendar/OrderCalendar.css */
+.order-calendar-container {
+  padding: 20px;
+}
+
+.calendar-container {
+  margin-top: 20px;
+}
+
+/* Style for highlighted date in the calendar */
+.highlighted-date {
+  background-color: #949b9a; 
+}
