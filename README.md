@@ -13,14 +13,14 @@ Navigate to the project directory:
 Install dependencies:
  npm install
 
-Usage
+Usage:
  Start the development server:
  npm start
 
 Open the application in your browser:
  Navigate to http://localhost:3000 to access the ERP system.
 
-Features
+Features:
  Product Management:
  Add, edit, and delete products.
 View a comprehensive list of products with detailed information.
