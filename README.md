@@ -63,7 +63,7 @@ After updating order status
 Order Calendar:
  Visualize delivery schedules on an interactive calendar.
 Click on a date to view orders scheduled for delivery.
-Click on 15,16,17 March 2024 to view all orders due for delivery that day.
+Click on 15,16,17 March 2024 to view all orders due for delivery that day. Since mock data is used.
 
 Order Calendar
 ![Order Calendar](https://github.com/Kgicio/ERP-System/assets/99278747/8027769c-2f6f-4550-9451-ae1f0fc6e752)
