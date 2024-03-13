@@ -25,9 +25,11 @@ Features:
  Add, edit, and delete products.
 View a comprehensive list of products with detailed information.
 
+
 Order Management:
  View, update, and delete orders.
-Track order status and customer details.
+Track order status and customer details.![PAN CARD](https://github.com/Kgicio/ERP-System/assets/99278747/2e79369b-0968-4998-b1b0-f575ffeed617)
+
 
 Order Calendar:
  Visualize delivery schedules on an interactive calendar.
